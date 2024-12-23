@@ -1,0 +1,2 @@
+vehicules = ["jet", "yatch", "honda", "car", "motorbike"]
+print(f"I don't got {vehicules[1].lower()} money but I certaintly got enough money to get a {vehicules[-2].lower()} or a {vehicules[-1].lower()}, it may be a {vehicules[-3].lower()} but still. Yet you think I can afford to buy {vehicules[0].lower()} or a {vehicules[1]}")
